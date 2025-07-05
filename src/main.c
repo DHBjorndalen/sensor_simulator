@@ -1,4 +1,5 @@
 #include "../include/sensor.h"
+#include "../include/utils.h"
 #include <time.h>
 #include <stdlib.h>
 
